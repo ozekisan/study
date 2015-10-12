@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/1010/01_モタモタするとヤラレる系.md" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/1010/02_システム運用の知識.md" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/1010/03_抜け穴・抜け道.md" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/1010/04_本文そのまんま.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC/01_モタモタするとヤラレる系.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC/02_システム運用の知識.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC/03_抜け穴・抜け道.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC/04_本文そのまんま.md" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
